@@ -66,4 +66,4 @@
 | **Day 57** | Oct 29, 2026 | Book Inventory App Project Completion | Completed Build a Book Inventory App certification project and started the Responsive Design module | [Read Log](./logs/day-57.md) |
 | **Day 58** | Oct 30, 2026 | Responsive Design & Piano Workshop | Completed Best Practices theory and Design a Piano workshop (Responsive Design module at 35/37 steps complete)[cite: 16] | [Read Log](./logs/day-58.md) |
 | **Day 59** | Nov 1, 2026 | Variables Module Start | Started Variables module and completed initial CSS custom properties theory (2/120 steps complete)[cite: 15] | [Read Log](./logs/day-59.md) |
-| **Day 60** | Nov 2, 2026 | City Skyline Workshop Progress | Advanced through Step 40 of Build a City Skyline workshop, refactoring CSS variables and building layouts[cite: 16] | [Read Log](./logs/day-60.md) |
+| **Day 60** | Nov 2, 2026 | City Skyline Workshop Completion | Completed all 115 steps of the Build a City Skyline workshop utilizing CSS custom properties[cite: 16] | [Read Log](./logs/day-59.md) |
