@@ -70,4 +70,4 @@
 | **Day 61** | Nov 3, 2026 | Grid Module Start | Completed Variables module and started Working with CSS Grid theory | [Read Log](./logs/day-61.md) |
 | **Day 62** | Nov 4, 2026 | Working with CSS Grid Theory | Completed Working with CSS Grid theory section under Grid module[cite: 16] | [Read Log](./logs/day-62.md) |
 | **Day 63** | Nov 5, 2026 | Magazine Workshop Progress | Advanced through Step 7 of Build a Magazine workshop[cite: 16] | [Read Log](./logs/day-63.md) |
-| **Day 64** | Nov 6, 2026 | Magazine Workshop Completion | Completed all 79 steps of Build a Magazine workshop (Grid module at 87/91 steps complete)[cite: 16] | [Read Log](./logs/day-64.md) |
+| **Day 64** | Nov 6, 2026 | Newspaper Layout Lab Start | Started Design a Newspaper Layout lab under Grid module[cite: 15] | [Read Log](./logs/day-64.md) |
