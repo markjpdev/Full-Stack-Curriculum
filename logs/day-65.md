@@ -1,15 +1,13 @@
-# Day 65: Nov 7, 2026 — Product Landing Page Completion & Animations Module Start
+# Day 65: Nov 7, 2026 — Animated Ferris Wheel Progress (Step 29)
 
 ### 📝 Today's Progress
-Completed the **Build a Product Landing Page** certification project and initiated the **Animations** module, finishing the **Animations and Accessibility** theory section (2 of 139 steps complete).
+Completed the Product Landing Page project, finished the Animations and Accessibility theory, and advanced through **Step 29** of the **Build an Animated Ferris Wheel** workshop (Animations module at 31 of 139 steps complete).
 
 ### 💡 Key Takeaways
 
-**1. CSS Animations & Keyframes**
-- Explored fundamental animation concepts, transition dynamics, keyframe mechanics, and timing functions to enhance user interactions.
-
-**2. Animation Accessibility (`prefers-reduced-motion`)**
-- Examined accessibility implications of movement on the web and learned to utilize the `prefers-reduced-motion` media query to respect user system preferences and mitigate vestibular motion triggers.
+**1. CSS Keyframe Animations & Transformations**
+- Began structuring rotational keyframes and applying transforms to construct and animate spinning mechanical elements.
+- Configured transform origins and timing parameters to achieve smooth motion paths for cabins and wheels.
 
 ---
-*Next up: Build an Animated Ferris Wheel (Workshop)*
+*Next up: Continue Build an Animated Ferris Wheel workshop[cite: 14]*
