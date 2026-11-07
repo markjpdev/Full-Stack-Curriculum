@@ -1,12 +1,15 @@
-# Day 65: Nov 7, 2026 — Product Landing Page Project Start
+# Day 65: Nov 7, 2026 — Product Landing Page Completion & Animations Module Start
 
 ### 📝 Today's Progress
-Completed the Grid module review and quiz, and initiated the **Build a Product Landing Page** certification project[cite: 16].
+Completed the **Build a Product Landing Page** certification project and initiated the **Animations** module, finishing the **Animations and Accessibility** theory section (2 of 139 steps complete).
 
 ### 💡 Key Takeaways
 
-**1. Certification Project Architecture**
-- Began structuring the product landing page layout, incorporating semantic landmarks, responsive design principles, and custom styling rules.
+**1. CSS Animations & Keyframes**
+- Explored fundamental animation concepts, transition dynamics, keyframe mechanics, and timing functions to enhance user interactions.
+
+**2. Animation Accessibility (`prefers-reduced-motion`)**
+- Examined accessibility implications of movement on the web and learned to utilize the `prefers-reduced-motion` media query to respect user system preferences and mitigate vestibular motion triggers.
 
 ---
-*Next up: Continue Build a Product Landing Page project[cite: 16]*
+*Next up: Build an Animated Ferris Wheel (Workshop)*
