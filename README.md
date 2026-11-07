@@ -71,4 +71,4 @@
 | **Day 62** | Nov 4, 2026 | Working with CSS Grid Theory | Completed Working with CSS Grid theory section under Grid module[cite: 16] | [Read Log](./logs/day-62.md) |
 | **Day 63** | Nov 5, 2026 | Magazine Workshop Progress | Advanced through Step 7 of Build a Magazine workshop[cite: 16] | [Read Log](./logs/day-63.md) |
 | **Day 64** | Nov 6, 2026 | Newspaper Layout Lab Start | Started Design a Newspaper Layout lab under Grid module[cite: 15] | [Read Log](./logs/day-64.md) |
-| **Day 65** | Nov 7, 2026 | Moon Orbit Lab Completion | Completed Animated Ferris Wheel workshop and Moon Orbit lab (Animations module at 32/139 steps complete)[cite: 15] | [Read Log](./logs/day-65.md) |
+| **Day 65** | Nov 7, 2026 | Flappy Penguin Workshop Completion | Completed all 104 steps of Build a Flappy Penguin workshop (Animations module at 136/139 steps complete)[cite: 15] | [Read Log](./logs/day-65.md) |
