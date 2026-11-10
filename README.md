@@ -74,3 +74,4 @@
 | **Day 65** | Nov 7, 2026 | Personal Portfolio Lab Start | Started Build a Personal Portfolio lab under Animations module[cite: 15] | [Read Log](./logs/day-65.md) |
 | **Day 66** | Nov 8, 2026 | JS Intro Progress (Step 4) | Submitted RWD exam (pending results) and advanced through Step 4 of Introduction to JavaScript (4/1404 steps complete)[cite: 11] | [Read Log](./logs/day-66.md) |
 | **Day 67** | Nov 9, 2026 | Understanding Code Clarity | Completed Understanding Code Clarity theory covering semicolons and comments (9/1404 steps complete) | [Read Log](./logs/day-67.md) |
+| **Day 68** | Nov 10, 2026 | Greeting Bot Workshop Completion | Completed the 15-step Build a Greeting Bot workshop integrating variables, strings, and console output (24/1404 steps complete)[cite: 7] | [Read Log](./logs/day-68.md) |
