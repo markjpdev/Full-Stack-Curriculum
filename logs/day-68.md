@@ -1,12 +1,12 @@
-# Day 68: Nov 10, 2026 — JavaScript Trivia Bot Lab Progress
+# Day 68: Nov 10, 2026 — Sentence Maker Lab & Variables & Strings Progress
 
 ### 📝 Today's Progress
-Completed the initial step of the **Build a JavaScript Trivia Bot** lab, advancing total JavaScript certification progress to 25 of 1404 steps complete (25 of 101 steps in Variables and Strings).
+Completed the **Build a Sentence Maker** lab, advancing total JavaScript certification progress to 26 of 1404 steps complete (26 of 101 steps in Variables and Strings).
 
 ### 💡 Key Takeaways
 
-**1. Trivia Bot Implementation**
-- Applied variables and string formatting concepts to construct custom prompts and structured output logic for an interactive trivia script.
+**1. Sentence Maker Implementation**
+- Applied string concatenation and variable storage techniques to dynamically combine words and phrases into complete, grammatically structured sentences.
 
 ---
-*Next up: Continue Build a JavaScript Trivia Bot lab*
+*Next up: Working with Data Types (Theory)*
