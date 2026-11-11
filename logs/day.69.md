@@ -1,12 +1,12 @@
-# Day 69: Nov 11, 2026 — ASCII & String Character Methods Theory
+# Day 69: Nov 11, 2026 — Working with String Search and Slice Methods Theory
 
 ### 📝 Today's Progress
-- Completed the **What Is ASCII, and How Does It Work with charCodeAt() and fromCharCode()?** theory lesson under the **Working with String Character Methods** module.
+- Completed the **Working with String Search and Slice Methods** theory section, including lessons on testing if a string contains a substring and extracting substrings.
 
 ### 💡 Key Takeaways
 
-**1. ASCII & Character Codes**
-- Explored how characters are mapped to numeric values using ASCII standards and how to leverage `charCodeAt()` and `fromCharCode()` to convert between characters and their underlying code points.
+**1. Substring Testing & Extraction**
+- Explored methods like `includes()`, `indexOf()`, `slice()`, and related techniques to search for specific text patterns and extract designated portions of string primitives safely.
 
 ---
-*Next up: Continue Working with String Character Methods*
+*Next up: Build a String Inspector (Workshop)[cite: 11]*
