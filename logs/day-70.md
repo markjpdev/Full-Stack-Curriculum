@@ -1,12 +1,12 @@
-# Day 70: Nov 12, 2026 — Type Coercion Debugging Lab
+# Day 70: Nov 12, 2026 — Operator Behavior Theory
 
 ### 📝 Today's Progress
-- Completed the **Debug Type Coercion Errors in a Buggy App** lab, bringing total JavaScript certification progress to 105 of 1405 steps complete[cite: 14].
+- Completed the **Working with Operator Behavior** theory section, covering operator precedence, increment and decrement operators, and compound assignment operators (7/54 steps complete under Booleans and Numbers).
 
 ### 💡 Key Takeaways
 
-**1. Debugging Type Coercion**
-- Identified and fixed unintended type coercion bugs in practical application code, reinforcing how JavaScript implicitly converts between numbers and strings during operations.
+**1. Operator Mechanics & Precedence**
+- Mastered order of operations (operator precedence) in complex expressions, explored how prefix/postfix increment (`++`) and decrement (`--`) operators work, and utilized compound assignment operators (`+=`, `-=`, etc.) for cleaner arithmetic updates.
 
 ---
-*Next up: Working with Operator Behavior (Theory)*
+*Next up: Debug Increment and Decrement Operator Errors in a Buggy App (Lab)*
