@@ -76,4 +76,4 @@
 | **Day 67** | Nov 9, 2026 | Understanding Code Clarity | Completed Understanding Code Clarity theory covering semicolons and comments (9/1404 steps complete) | [Read Log](./logs/day-67.md) |
 | **Day 68** | Nov 10, 2026 | Teacher Chatbot Workshop | Completed the 18-step Build a Teacher Chatbot workshop[cite: 10] | [Read Log](./logs/day-68.md) |
 | **Day 69** | Nov 11, 2026 | Strings Module & Numbers Preview | Completed Strings module (Transformer, Review, Quiz) and previewed Numbers type[cite: 12] | [Read Log](./logs/day-69.md) |
-| **Day 70** | Nov 12, 2026 | Logic Checker App Workshop | Completed the 13-step Build a Logic Checker App workshop (23/54 steps complete)[cite: 14] | [Read Log](./logs/day-70.md) |
+| **Day 70** | Nov 12, 2026 | Unary & Bitwise Operators Theory | Completed unary operators and bitwise operators theory | [Read Log](./logs/day-70.md) |
