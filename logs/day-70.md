@@ -1,12 +1,12 @@
-# Day 70: Nov 12, 2026 — Logic Checker App Workshop
+# Day 70: Nov 12, 2026 — Unary & Bitwise Operators Theory
 
 ### 📝 Today's Progress
-- Completed the 13-step **Build a Logic Checker App** workshop, bringing total progress to 23 of 54 steps complete under Booleans and Numbers.
+- Completed the **Working with Unary and Bitwise Operators** theory section, covering unary operators and bitwise operations.
 
 ### 💡 Key Takeaways
 
-**1. Logic Checker Implementation**
-- Applied comparison operators, equality checks, and boolean evaluation logic in a practical workshop to build a dynamic logic-checking application.
+**1. Unary & Bitwise Operations**
+- Explored unary operators (like `+`, `-`, and `typeof`) for operating on a single operand, and learned how bitwise operators work at the binary level.
 
 ---
-*Next up: Working with Unary and Bitwise Operators (Theory)[cite: 14]*
+*Next up: Working with Conditional Logic and Math Methods (Theory)*
