@@ -1,12 +1,12 @@
-# Day 70: Nov 12, 2026 — Comparison & Boolean Operators Theory
+# Day 70: Nov 12, 2026 — Logic Checker App Workshop
 
 ### 📝 Today's Progress
-- Completed the **Working with Comparison and Boolean Operators** theory module, covering booleans, equality/inequality operators, and comparison operators (10/54 steps complete under Booleans and Numbers).
+- Completed the 13-step **Build a Logic Checker App** workshop, bringing total progress to 23 of 54 steps complete under Booleans and Numbers.
 
 ### 💡 Key Takeaways
 
-**1. Comparisons & Boolean Logic**
-- Explored how boolean values work in JavaScript alongside strict/loose equality, inequality operators, and relational comparisons to evaluate conditions.
+**1. Logic Checker Implementation**
+- Applied comparison operators, equality checks, and boolean evaluation logic in a practical workshop to build a dynamic logic-checking application.
 
 ---
-*Next up: Build a Logic Checker App (Workshop)*
+*Next up: Working with Unary and Bitwise Operators (Theory)[cite: 14]*
