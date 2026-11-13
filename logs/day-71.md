@@ -1,16 +1,21 @@
-# Day 71: Nov 13, 2026 — Numerical Evaluation & Assessment Architecture
+# Day 71: Nov 13, 2026 — Relational Evaluation & Functions Architecture
 
 ## Executive Summary
-Completed the **JavaScript Math Quiz** validation assessment, confirming mastery of numerical methods, native math object operations, and algorithmic logic routing within the JavaScript runtime.
+Completed the **Understanding Comparisons and Conditionals** module, alongside its structural review and verification quiz. Initiated the **Functions** module by analyzing core abstraction principles, arrow function syntax, and lexical scope management.
 
 ## Technical Milestones & Module Breakdown
-1. **Assessment & Verification**
-   - Successfully passed the **JavaScript Math Quiz**, validating core competencies in arithmetic methods, global math utilities, and stochastic value generation.
-2. **Cumulative Module Integration**
-   - Consolidated understanding of mathematical operators, coercion handling, and conditional control flow blocks.
+1. **Comparisons & Conditionals (Theory, Review, & Quiz)**
+   - Analyzed relational operators and conditional evaluation flows.
+   - Completed the **JavaScript Comparisons and Conditionals Review** module.
+   - Successfully passed the **JavaScript Comparisons and Conditionals Quiz** to validate logic branching competencies.
+2. **Functions & Scope Architecture (Theory Initiation)**
+   - Explored the core purpose of functions as reusable execution units.
+   - Examined ES6 **Arrow Functions** and concise syntax execution.
+   - Investigated **Scope Dynamics** (Global, Local, and Block Scope) and variable lifecycle boundaries within the execution context.
 
 ## Key Technical Takeaways
-- **Assessment Validation**: Confirmed precision in handling numeric data types and invoking standard library math methods under evaluation conditions.
+- **Lexical Scoping**: Differentiating between variable accessibility domains across global, functional, and block-scoped execution environments.
+- **Abstraction Design**: Leveraging functional abstractions to encapsulate recurring procedural logic and reduce codebase side-effects.
 
 ---
-*Target for subsequent session: Understanding Comparisons and Conditionals (Theory)*
+*Target for subsequent session: Continue Functions module (Build a Calculator Workshop)*
