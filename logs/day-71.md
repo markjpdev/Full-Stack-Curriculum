@@ -1,12 +1,12 @@
-# Day 71: Nov 13, 2026 — Conditional Logic & Math Methods Completion
+# Day 71: Nov 13, 2026 — Build a Mathbot Workshop Progress
 
 ### 📝 Today's Progress
-- Completed the full **Working with Conditional Logic and Math Methods** theory section, covering conditional statements (`if`, `else if`, `else`), binary logical operators, and the built-in `Math` object.
+- Completed the first 16 steps of the **Build a Mathbot** workshop.
 
 ### 💡 Key Takeaways
 
-**1. Conditional Statements & Logical Operators**
-- Mastered how to control program flow using conditional structures and combined boolean expressions with binary logical operators.
+**1. Mathbot Implementation**
+- Applied conditional logic, binary logical operators, and Math methods to build an interactive math-solving assistant.
 
 ---
-*Next up: Build a Mathbot (Workshop)[cite: 16]*
+*Next up: Continue Build a Mathbot workshop[cite: 16]*
