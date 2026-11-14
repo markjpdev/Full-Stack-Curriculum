@@ -78,4 +78,4 @@
 | **Day 69** | Nov 11, 2026 | Strings Module & Numbers Preview | Completed Strings module (Transformer, Review, Quiz) and previewed Numbers type[cite: 12] | [Read Log](./logs/day-69.md) |
 | **Day 70** | Nov 12, 2026 | Unary & Bitwise Operators Theory | Completed unary operators and bitwise operators theory | [Read Log](./logs/day-70.md) |
 | **Day 71** | Nov 13, 2026 | Comparisons, Conditionals & Functions Intro | Completed Comparisons/Conditionals Theory, Review, Quiz, and Functions/Scope Theory | [Read Log](./logs/day-71.md) |
-| **Day 72** | Nov 14, 2026 | Calculator Workshop Progress | Completed the first 19 steps of the Build a Calculator workshop (177/1405 steps complete)[cite: 15] | [Read Log](./logs/day-72.md) |
+| **Day 72** | Nov 14, 2026 | Functions, Calculator Workshop & Boolean Check Lab | Completed Functions Theory, Calculator (Steps 1-19), and Build a Boolean Check Function lab (178/1405 steps complete)[cite: 13, 14, 15] | [Read Log](./logs/day-72.md) |
