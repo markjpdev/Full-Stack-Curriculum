@@ -78,3 +78,4 @@
 | **Day 69** | Nov 11, 2026 | Strings Module & Numbers Preview | Completed Strings module (Transformer, Review, Quiz) and previewed Numbers type[cite: 12] | [Read Log](./logs/day-69.md) |
 | **Day 70** | Nov 12, 2026 | Unary & Bitwise Operators Theory | Completed unary operators and bitwise operators theory | [Read Log](./logs/day-70.md) |
 | **Day 71** | Nov 13, 2026 | Comparisons, Conditionals & Functions Intro | Completed Comparisons/Conditionals Theory, Review, Quiz, and Functions/Scope Theory | [Read Log](./logs/day-71.md) |
+| **Day 72** | Nov 14, 2026 | Functions Theory & Scope Mechanics | Completed Working with Functions theory (Purpose, Arrow Functions, and Scope) | [Read Log](./logs/day-72.md) |
